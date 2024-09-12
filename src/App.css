@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.galeria {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.imagem-container {
+  border: 1px solid #ddd;
+  padding: 5px;
+}
